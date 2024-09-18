@@ -1,4 +1,4 @@
-## Security information and event management (SIEM)
+# SIEM-Module
 
 ###### Welcome to the world of SIEM
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security information and event management (SIEM).
